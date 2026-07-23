@@ -1,12 +1,8 @@
 .heading {
-  text-align: center;
   font-size: 50px;
   margin: auto;
   border-bottom: rgb(30, 214, 13) 1px solid;
   margin-top: 50px;
-}
-p {
-  font-size: 10px;
 }
 h2 {
   text-transform: capitalize;
