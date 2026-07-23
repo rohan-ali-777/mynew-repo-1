@@ -1,2 +1,1 @@
-this is my new repo
-and i add new branch
+i am read me file form main branch
